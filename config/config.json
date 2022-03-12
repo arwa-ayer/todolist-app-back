@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "todo_list",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "todo_list",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  },
+  "preproduction": {
+    "username": "root",
+    "password": "root",
+    "database": "todo_list",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "todo_list",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+    "info": {
+      "title": "todolist Doc API",
+      "version": "1.0.0",
+      "description": "todolist RESTful API with Swagger"
+    },
+    "host": "0.0.0.0",
+    "basePath": "/api/",
+    "swagger": "2.0",
+    "paths": { },
+    "definitions": { },
+    "responses": { },
+    "parameters": { },
+    "securityDefinitions": {
+      "bearerAuth": {
+        "type": "apiKey",
+        "name": "Authorization",
+        "scheme": "bearer",
+        "in": "header"
+      }
+     }
+}
